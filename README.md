@@ -29,10 +29,13 @@ To use the Recursive XY CUT algorithm in your C# project, follow these steps:
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## Kudos 🙏
-I'd like to give special thanks to [GitHub Owner's Name](https://github.com/Sanster) who has achieved this in python, which i have now converted to C#.
+I'd like to give special thanks to [Sanster (Qing) ](https://github.com/Sanster) who has achieved this in python, which i have now converted to C#.
 
 ## References 📃
-- [Paper Title](https://ieeexplore.ieee.org/document/602059): This paper presents the Recursive XY CUT algorithm and discusses its applications and efficiency in detail.
+- ["Recursive X-Y cut using bounding boxes of connected components"](https://ieeexplore.ieee.org/document/602059): This paper by Jaekyu Ha, R. M. Haralick and I. T. Phillips presents the Recursive XY CUT algorithm and discusses its applications and efficiency in detail.
+
+
+
 
 
 
