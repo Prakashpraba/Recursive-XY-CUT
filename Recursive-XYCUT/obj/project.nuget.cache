@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+TQbl9ZoaJ/3TOAYOOsC7MrFY5FRmHof+09L6qMSgLI+V0aB2GnGoAUskUmX3z7xMBZ824vCRN9brQiU/eL3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rr422792\\source\\repos\\Recursive-XYCUT\\Recursive-XYCUT\\Recursive-XYCUT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rr422792\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\rr422792\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
